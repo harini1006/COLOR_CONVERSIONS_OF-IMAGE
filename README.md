@@ -220,6 +220,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
+![image](https://github.com/harini1006/COLOR_CONVERSIONS_OF-IMAGE/assets/113497405/7c938640-8759-4f53-a1be-e7ba2c38c694)
 
 
 ### ix) Split and merge RGB Image
@@ -244,6 +245,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
+![image](https://github.com/harini1006/COLOR_CONVERSIONS_OF-IMAGE/assets/113497405/1a0aadfc-15ba-445c-b580-f3be72f9167d)
 
 
 
@@ -268,6 +270,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
+![image](https://github.com/harini1006/COLOR_CONVERSIONS_OF-IMAGE/assets/113497405/3af4b3f5-8b5d-4a2b-bc40-80ff4bdd095b)
 
 ## Result:
 Thus the images are read, displayed, and written ,and color conversion was performed between RGB, HSV and YCbCr color models successfully using the python program.
